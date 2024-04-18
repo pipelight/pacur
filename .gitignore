@@ -10,3 +10,7 @@ Thumbs.db
 *.egg
 *.egg-info
 /pacur
+
+# Nix build artifacts
+result
+flake.lock
